@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://rizalmaulanaa.github.io/)
+- 🌱 I’m currently learning Biomedical Image Analysis
+- 📫 How to reach me: [rizal.0951@gmail.com](mailto:rizal.0951@gmail.com)
